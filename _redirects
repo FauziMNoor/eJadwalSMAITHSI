@@ -1,0 +1,5 @@
+# Redirect all routes to index.html for SPA routing
+/*    /index.html   200
+
+# Specific redirects for external routes
+/external/*    /index.html   200
